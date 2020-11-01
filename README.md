@@ -1,2 +1,2 @@
-# ssd_keras
-Python implementation of SSD using Keras
+# RetinaNet Keras
+Python implementation of RetinaNet using Keras
